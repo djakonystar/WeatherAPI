@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherAPI</string>
+    <string name="min_temp">Min: %s C</string>
+    <string name="max_temp">Max: %s C</string>
+</resources>
